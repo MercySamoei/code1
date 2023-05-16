@@ -1,2 +1,2 @@
 # code1
-ZIndua school first assignment.
+Zindua school first assignment.
